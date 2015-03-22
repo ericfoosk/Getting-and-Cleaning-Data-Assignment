@@ -21,11 +21,9 @@ Dataset Used
 ---------------------------------------------------------------
 This data is obtained from "Human Activity Recognition Using Smartphones Data Set".  The data linked are collected from the accelerometers from the Samsung Galaxy S smartphone.  
 
-A full description is available at the link below:
-	<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
+A full description is available at the [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-The data set used can be downloaded from the link below:
-	<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
+The data set used can be downloaded from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 Input Data Set
 ---------------------------------------------------------------
